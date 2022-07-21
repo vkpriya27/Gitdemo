@@ -4,6 +4,11 @@ import org.testng.annotations.Test;
 
 public class APITest {
 	
+	public void display()
+	{
+		System.out.println("hi");
+		
+	}
 	@Test
 	public void nativeAppAndroid()
 	{
