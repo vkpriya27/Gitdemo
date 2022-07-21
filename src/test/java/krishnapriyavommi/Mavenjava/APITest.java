@@ -7,7 +7,9 @@ public class APITest {
 	public void display()
 	{
 		System.out.println("hi");
-		
+		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
 	}
 	@Test
 	public void nativeAppAndroid()
